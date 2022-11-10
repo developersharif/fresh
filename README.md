@@ -22,7 +22,7 @@ the framework.
 - Tiny (example is 0-3KB of runtime JS)<sup>1</sup>
 - Optional client side hydration
 - TypeScript out of the box
-- File-system routing à la Next.js
+- File-system routing like Next.js
 
 ## Documentation
 
